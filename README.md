@@ -1,2 +1,2 @@
-test from the text editor!
-Fri Dec 06 01:03 PM 2024 
+line by line test windows from gui 
+Fri Dec 06 01:24 PM 2024 
